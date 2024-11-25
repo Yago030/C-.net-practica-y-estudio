@@ -1,0 +1,14 @@
+C:\Users\Yagosan\source\repos\Deserializacion\Deserializacion\bin\Debug\net8.0\Deserializacion.exe
+C:\Users\Yagosan\source\repos\Deserializacion\Deserializacion\bin\Debug\net8.0\Deserializacion.deps.json
+C:\Users\Yagosan\source\repos\Deserializacion\Deserializacion\bin\Debug\net8.0\Deserializacion.runtimeconfig.json
+C:\Users\Yagosan\source\repos\Deserializacion\Deserializacion\bin\Debug\net8.0\Deserializacion.dll
+C:\Users\Yagosan\source\repos\Deserializacion\Deserializacion\bin\Debug\net8.0\Deserializacion.pdb
+C:\Users\Yagosan\source\repos\Deserializacion\Deserializacion\obj\Debug\net8.0\Deserializacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yagosan\source\repos\Deserializacion\Deserializacion\obj\Debug\net8.0\Deserializacion.AssemblyInfoInputs.cache
+C:\Users\Yagosan\source\repos\Deserializacion\Deserializacion\obj\Debug\net8.0\Deserializacion.AssemblyInfo.cs
+C:\Users\Yagosan\source\repos\Deserializacion\Deserializacion\obj\Debug\net8.0\Deserializacion.csproj.CoreCompileInputs.cache
+C:\Users\Yagosan\source\repos\Deserializacion\Deserializacion\obj\Debug\net8.0\Deserializacion.dll
+C:\Users\Yagosan\source\repos\Deserializacion\Deserializacion\obj\Debug\net8.0\refint\Deserializacion.dll
+C:\Users\Yagosan\source\repos\Deserializacion\Deserializacion\obj\Debug\net8.0\Deserializacion.pdb
+C:\Users\Yagosan\source\repos\Deserializacion\Deserializacion\obj\Debug\net8.0\Deserializacion.genruntimeconfig.cache
+C:\Users\Yagosan\source\repos\Deserializacion\Deserializacion\obj\Debug\net8.0\ref\Deserializacion.dll

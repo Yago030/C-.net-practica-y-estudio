@@ -1,0 +1,14 @@
+E:\C#Tasks\IntroSharpBackend\IntroSharpBackend\bin\Debug\net8.0\IntroSharpBackend.exe
+E:\C#Tasks\IntroSharpBackend\IntroSharpBackend\bin\Debug\net8.0\IntroSharpBackend.deps.json
+E:\C#Tasks\IntroSharpBackend\IntroSharpBackend\bin\Debug\net8.0\IntroSharpBackend.runtimeconfig.json
+E:\C#Tasks\IntroSharpBackend\IntroSharpBackend\bin\Debug\net8.0\IntroSharpBackend.dll
+E:\C#Tasks\IntroSharpBackend\IntroSharpBackend\bin\Debug\net8.0\IntroSharpBackend.pdb
+E:\C#Tasks\IntroSharpBackend\IntroSharpBackend\obj\Debug\net8.0\IntroSharpBackend.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Tasks\IntroSharpBackend\IntroSharpBackend\obj\Debug\net8.0\IntroSharpBackend.AssemblyInfoInputs.cache
+E:\C#Tasks\IntroSharpBackend\IntroSharpBackend\obj\Debug\net8.0\IntroSharpBackend.AssemblyInfo.cs
+E:\C#Tasks\IntroSharpBackend\IntroSharpBackend\obj\Debug\net8.0\IntroSharpBackend.csproj.CoreCompileInputs.cache
+E:\C#Tasks\IntroSharpBackend\IntroSharpBackend\obj\Debug\net8.0\IntroSharpBackend.dll
+E:\C#Tasks\IntroSharpBackend\IntroSharpBackend\obj\Debug\net8.0\refint\IntroSharpBackend.dll
+E:\C#Tasks\IntroSharpBackend\IntroSharpBackend\obj\Debug\net8.0\IntroSharpBackend.pdb
+E:\C#Tasks\IntroSharpBackend\IntroSharpBackend\obj\Debug\net8.0\IntroSharpBackend.genruntimeconfig.cache
+E:\C#Tasks\IntroSharpBackend\IntroSharpBackend\obj\Debug\net8.0\ref\IntroSharpBackend.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yagosan\\source\\repos\\funcionAnonimaLAMDA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07D85E7A-AE38-4E01-A6C9-A3D54FFB0EE0}|funcionAnonimaLAMDA\\funcionAnonimaLAMDA.csproj|c:\\users\\yagosan\\source\\repos\\funcionanonimalamda\\funcionanonimalamda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D85E7A-AE38-4E01-A6C9-A3D54FFB0EE0}|funcionAnonimaLAMDA\\funcionAnonimaLAMDA.csproj|solutionrelative:funcionanonimalamda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yagosan\\source\\repos\\funcionAnonimaLAMDA\\funcionAnonimaLAMDA\\Program.cs",
+              "RelativeDocumentMoniker": "funcionAnonimaLAMDA\\Program.cs",
+              "ToolTip": "C:\\Users\\Yagosan\\source\\repos\\funcionAnonimaLAMDA\\funcionAnonimaLAMDA\\Program.cs",
+              "RelativeToolTip": "funcionAnonimaLAMDA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:49:22.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

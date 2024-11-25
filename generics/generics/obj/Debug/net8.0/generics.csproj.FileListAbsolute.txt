@@ -1,0 +1,14 @@
+C:\Users\Yagosan\source\repos\generics\generics\bin\Debug\net8.0\generics.exe
+C:\Users\Yagosan\source\repos\generics\generics\bin\Debug\net8.0\generics.deps.json
+C:\Users\Yagosan\source\repos\generics\generics\bin\Debug\net8.0\generics.runtimeconfig.json
+C:\Users\Yagosan\source\repos\generics\generics\bin\Debug\net8.0\generics.dll
+C:\Users\Yagosan\source\repos\generics\generics\bin\Debug\net8.0\generics.pdb
+C:\Users\Yagosan\source\repos\generics\generics\obj\Debug\net8.0\generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yagosan\source\repos\generics\generics\obj\Debug\net8.0\generics.AssemblyInfoInputs.cache
+C:\Users\Yagosan\source\repos\generics\generics\obj\Debug\net8.0\generics.AssemblyInfo.cs
+C:\Users\Yagosan\source\repos\generics\generics\obj\Debug\net8.0\generics.csproj.CoreCompileInputs.cache
+C:\Users\Yagosan\source\repos\generics\generics\obj\Debug\net8.0\generics.dll
+C:\Users\Yagosan\source\repos\generics\generics\obj\Debug\net8.0\refint\generics.dll
+C:\Users\Yagosan\source\repos\generics\generics\obj\Debug\net8.0\generics.pdb
+C:\Users\Yagosan\source\repos\generics\generics\obj\Debug\net8.0\generics.genruntimeconfig.cache
+C:\Users\Yagosan\source\repos\generics\generics\obj\Debug\net8.0\ref\generics.dll

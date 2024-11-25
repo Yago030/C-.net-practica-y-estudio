@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#Tasks\\IntroSharpBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3477B998-20A4-4688-B5FC-660311B5F242}|IntroSharpBackend\\IntroSharpBackend.csproj|e:\\c#tasks\\introsharpbackend\\introsharpbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3477B998-20A4-4688-B5FC-660311B5F242}|IntroSharpBackend\\IntroSharpBackend.csproj|solutionrelative:introsharpbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#Tasks\\IntroSharpBackend\\IntroSharpBackend\\Program.cs",
+              "RelativeDocumentMoniker": "IntroSharpBackend\\Program.cs",
+              "ToolTip": "E:\\C#Tasks\\IntroSharpBackend\\IntroSharpBackend\\Program.cs",
+              "RelativeToolTip": "IntroSharpBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:50:55.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
